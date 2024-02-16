@@ -7,8 +7,8 @@ Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, 
 
 Select *
 From CovidDeaths 
-Where location='High income'
 order by 3,4
+
 
 -- Select Data that we are going to be starting with
 
